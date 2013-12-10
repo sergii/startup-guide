@@ -6,7 +6,15 @@ The comprehensive guide to build startup
 * [Collaborative instruments](#collaborative-instruments)
 * [Concept](#concept)
 * [Design](#design)
-
+* [Things, that may be automated](#things-that-may-be-automated)
+ * [BDD](#bdd)
+ * [i18n](#i18n)
+ * [Compose new project](#compose-new-project)
+ * [Deploy](#deploy)
+ * [DevOps](#dev-ops)
+ * [Email](#email)
+ * [Admin page](#admin-page)
+ * [UI](#ui)
 # Collaborative instruments
 
 # Concept
